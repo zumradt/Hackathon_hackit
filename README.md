@@ -1,4 +1,4 @@
-# Hackathon Client Product Scoring
+# Hackathon Client Product Pushes
 
 ## Описание
 
@@ -14,7 +14,7 @@
 
 ## Итоговый файл
 
-В итоговом файле client_product_pushes.csv для каждого клиента содержится:
+В итоговом файле ```client_product_pushes.csv``` для каждого клиента содержится:
 - код клиента
 - рекомендованный продукт
 - push-уведомление с выгодой
