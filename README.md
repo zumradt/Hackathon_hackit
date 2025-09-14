@@ -1,4 +1,4 @@
-# Hackathon Client Product Pushes
+# Hackathon Client Product Recommendations
 
 ## Описание
 
